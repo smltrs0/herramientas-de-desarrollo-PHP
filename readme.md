@@ -1,12 +1,17 @@
+# 🛠️ Descargas de Laragon y Recursos
 
-#Link para descargar laragon
--Link sin registro
+## 📥 Laragon (WAMP)
+
+- **Enlace sin registro:**  
   https://www.mediafire.com/file/k6jodhga9zdj5xt/laragon-wamp.exe/file
 
--Link de BACKUP
+- **Enlace de respaldo (backup):**  
   https://www.mediafire.com/file/f649zrcr6hn48wv/laragon-wamp.exe/file
 
+---
 
+## 🐘 Versiones de PHP para Windows
 
--Versiones de PHP
+Puedes descargar versiones adicionales de PHP desde el sitio oficial:  
 https://windows.php.net/downloads/releases/
+
