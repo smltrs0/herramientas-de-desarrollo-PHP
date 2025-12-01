@@ -5,3 +5,8 @@
 
 -Link de BACKUP
   https://www.mediafire.com/file/f649zrcr6hn48wv/laragon-wamp.exe/file
+
+
+
+-Versiones de PHP
+https://windows.php.net/downloads/releases/
